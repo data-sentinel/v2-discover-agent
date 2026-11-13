@@ -1,1 +1,1 @@
-# v2-discover-agent
+# v2-discover-worker
